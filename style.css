@@ -3,10 +3,11 @@
     --color-bg : rgb(227, 231, 235);
     --color-bg2 : #FFFFFF;
     --color-2: #6C727F;
+    --color-bg3: #F2F5F9
 }
 
 body{
-    background-color: var(--color-bg);
+    background-color: var(--color-bg3);
 }
 
 .contenedor{
